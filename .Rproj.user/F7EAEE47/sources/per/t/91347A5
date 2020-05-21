@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1590082108814.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "888584321",
+    "id" : "91347A5",
+    "lastKnownWriteTime" : 1590082144,
+    "last_content_update" : 1590082144688,
+    "path" : "~/DATA_SCIENCE/R_DS/R_projecct/Tempolary_add_to_version_control/re.R",
+    "project_path" : "re.R",
+    "properties" : {
+        "cursorPosition" : "44,0",
+        "scrollLine" : "14",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
